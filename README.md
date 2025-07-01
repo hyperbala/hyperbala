@@ -20,7 +20,7 @@ Java · Python · JavaScript · C++
 Spring Boot · React · FastAPI · Flask · PyTorch  
 
 **Tools & Platforms**  
-Git · Docker · PostgreSQL · GitHub Actions · Wireshark  
+Git · Docker · PostgreSQL · GitHub Actions · AWS
 
 
 ---
